@@ -1,0 +1,20 @@
+{
+  "name": "v-arena",
+  "version": "1.0.0",
+  "description": "An nft battle arena made with 2D physics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rei-ne/V-ARENA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rei-ne/V-ARENA/issues"
+  },
+  "homepage": "https://github.com/Rei-ne/V-ARENA#readme"
+}
